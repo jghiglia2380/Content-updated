@@ -1,8 +1,6 @@
-# 14.1: Charitable Giving and Financial Planning
+# Chapter 14.1: Charitable Giving and Financial Planning
 
-## Overview
-
-This lesson explores how charitable giving can be integrated into financial planning. You'll learn about different ways to contribute to causes you care about, including monetary donations, volunteering, and in-kind contributions. We'll discuss how charitable giving benefits both individuals and communities, and explore ways to make an impact regardless of your financial situation.
+<!-- Implementation Note: Apply standard styling and formatting per the Day 1 template. Include the chapter-specific header with interactive components. -->
 
 ## Learning Objectives
 
@@ -23,9 +21,13 @@ By the end of this lesson, you should be able to:
 - **Volunteerism**: Donating time or skills to support causes without receiving financial compensation.
 - **Legacy**: Something left behind or passed down to support causes after one's lifetime, typically through planned giving.
 
-## Introduction to Charitable Giving
+## Introduction
+
+This lesson explores how charitable giving can be integrated into financial planning. You'll learn about different ways to contribute to causes you care about, including monetary donations, volunteering, and in-kind contributions. We'll discuss how charitable giving benefits both individuals and communities, and explore ways to make an impact regardless of your financial situation.
 
 Charitable giving is an important aspect of financial planning that allows individuals to support causes they care about while potentially providing tax benefits. Beyond the financial considerations, giving back to the community creates positive societal impact and can bring personal fulfillment.
+
+## Deeper Exploration
 
 ### Why Do People Give?
 
@@ -38,11 +40,9 @@ People choose to give to charitable causes for many reasons:
 - To experience the personal satisfaction that comes from helping others
 - To receive potential tax benefits
 
-> **Discussion Prompt**: What motivates you to give to others or support causes you care about? Have you or your family been involved in any charitable activities?
+### Forms of Charitable Giving
 
-## Forms of Charitable Giving
-
-### Monetary Donations
+#### Monetary Donations
 
 Monetary donations are direct financial contributions to charitable organizations. These can take various forms:
 
@@ -58,7 +58,7 @@ When making monetary donations, it's important to:
 3. Keep records of your donations for tax purposes
 4. Determine a realistic amount that fits within your budget
 
-### Volunteering: The Gift of Time
+#### Volunteering: The Gift of Time
 
 Volunteering involves donating your time and skills to help organizations or individuals in need. This form of giving is valuable regardless of your financial situation.
 
@@ -70,9 +70,7 @@ Benefits of volunteering include:
 - Improving mental health and well-being through purposeful activity
 - Exploring potential career interests
 
-> **Case Study**: Maria, a college student with limited financial resources, volunteers 5 hours each week at a local food bank. Although she can't make substantial monetary donations, her consistent time commitment helps the organization serve hundreds of meals each month. Through volunteering, Maria has developed leadership skills, made valuable connections, and gained experience that helped her secure an internship in nonprofit management.
-
-### In-Kind Donations
+#### In-Kind Donations
 
 In-kind donations involve contributing goods or services rather than money. This can include:
 
@@ -89,7 +87,7 @@ In-kind donations can be particularly valuable when:
 - You have items in good condition that you no longer need
 - You can't make monetary donations but have goods or skills to share
 
-### Planned Giving
+#### Planned Giving
 
 Planned giving involves making arrangements for charitable donations as part of your long-term financial or estate planning. This approach allows you to create a lasting impact beyond your lifetime.
 
@@ -102,9 +100,9 @@ Types of planned giving include:
 
 Planned giving often requires professional financial and legal guidance but can provide both charitable impact and potential tax benefits.
 
-## Integrating Charitable Giving into Financial Planning
+### Integrating Charitable Giving into Financial Planning
 
-### Creating a Giving Budget
+#### Creating a Giving Budget
 
 Just as you budget for other expenses, it's helpful to plan for charitable giving:
 
@@ -114,9 +112,7 @@ Just as you budget for other expenses, it's helpful to plan for charitable givin
 4. **Create a timeline**: Determine if you'll give one-time or recurring donations
 5. **Review and adjust**: Reassess your giving budget as your financial situation changes
 
-> **Discussion Prompt**: How might someone include charitable giving in their monthly or annual budget? What factors should they consider?
-
-### Tax Considerations
+#### Tax Considerations
 
 Many charitable donations are tax-deductible, which can reduce your taxable income. Key points to remember:
 
@@ -128,7 +124,7 @@ Many charitable donations are tax-deductible, which can reduce your taxable inco
 
 While tax benefits shouldn't be the primary reason for giving, they can enhance the financial planning aspects of charitable contributions.
 
-### Balancing Giving with Other Financial Goals
+#### Balancing Giving with Other Financial Goals
 
 It's important to balance charitable giving with other financial priorities:
 
@@ -140,9 +136,9 @@ It's important to balance charitable giving with other financial priorities:
 
 Remember that even small donations can make a difference, and you can increase your giving as your financial situation improves.
 
-## Benefits of Charitable Giving
+### Benefits of Charitable Giving
 
-### Personal Benefits
+#### Personal Benefits
 
 Charitable giving offers numerous personal benefits:
 
@@ -152,7 +148,7 @@ Charitable giving offers numerous personal benefits:
 - **Building community connections**: Volunteering and giving create social bonds
 - **Tax advantages**: Potential tax deductions for eligible donations
 
-### Societal Benefits
+#### Societal Benefits
 
 Charitable giving also creates broader societal benefits:
 
@@ -162,9 +158,9 @@ Charitable giving also creates broader societal benefits:
 - Creating stronger, more connected communities
 - Complementing government services and addressing gaps
 
-## Making an Impact Regardless of Financial Resources
+### Making an Impact Regardless of Financial Resources
 
-### Non-monetary Ways to Give Back
+#### Non-monetary Ways to Give Back
 
 You don't need significant financial resources to make a difference:
 
@@ -174,9 +170,7 @@ You don't need significant financial resources to make a difference:
 - **Raise awareness**: Share information about causes you care about
 - **Organize community efforts**: Coordinate food drives, cleanups, or fundraisers
 
-> **Case Study**: James, a high school student, doesn't have extra money to donate, but he's skilled at web design. He volunteered to rebuild the website for a local animal shelter, making it easier for them to showcase animals available for adoption. His contribution of skills and time has helped the shelter increase adoptions by 25% over six months.
-
-### Making Small Contributions Count
+#### Making Small Contributions Count
 
 Even small monetary contributions can have significant impact:
 
@@ -185,6 +179,30 @@ Even small monetary contributions can have significant impact:
 - Support local organizations where small donations make a bigger difference
 - Contribute consistently over time rather than in one large sum
 - Look for matching gift opportunities that multiply your donation
+
+## Real-World Examples
+
+### Example 1: Volunteering Impact - Maria's Food Bank Experience
+
+Maria, a college student with limited financial resources, volunteers 5 hours each week at a local food bank. Although she can't make substantial monetary donations, her consistent time commitment helps the organization serve hundreds of meals each month. Through volunteering, Maria has developed leadership skills, made valuable connections, and gained experience that helped her secure an internship in nonprofit management.
+
+Within six months of volunteering, Maria was given more responsibility and now coordinates other volunteers during her shifts. The food bank director estimates that Maria's contributions save the organization approximately $3,000 annually that would otherwise be spent on paid staff, allowing them to redirect those funds to serving more people in need.
+
+### Example 2: Skills-Based Giving - James's Web Design Contribution
+
+James, a high school student, doesn't have extra money to donate, but he's skilled at web design. He volunteered to rebuild the website for a local animal shelter, making it easier for them to showcase animals available for adoption. His contribution took approximately 40 hours of work over two months, but the results were significant:
+
+- The shelter's website visitors increased by 75% in the first three months
+- Online adoption applications doubled
+- The shelter's overall adoption rate increased by 25%
+- Staff time spent answering basic questions decreased, as this information was now clearly available on the website
+- The professional-looking site helped the shelter secure a $5,000 grant for additional programs
+
+A professional web design service would have charged the shelter at least $3,500 for similar work, which was well beyond their budget. James's contribution not only saved the shelter money but also created lasting impact for the animals in their care.
+
+## Reflection Prompt
+
+Think about the causes or issues that matter most to you personally. How might charitable giving related to these causes fit into your future financial plans? What forms of giving (monetary, volunteering, in-kind) would be most meaningful to you and why? How might your approach to charitable giving change as your financial situation evolves over time?
 
 ## Skill Builder: Personal Charitable Giving Plan
 
@@ -211,10 +229,10 @@ In this activity, you'll create a personal charitable giving plan that aligns wi
    - What impact you hope to make
    - How this plan fits into your overall financial or personal goals
 
-### Reflection Prompt:
-
-Why do you think charitable giving is important, and how does it align with your personal values? How might your contributions, whether financial or non-financial, benefit both the community and yourself?
-
 ## Summary
 
-Charitable giving is a meaningful way to support causes you care about while potentially gaining personal and tax benefits. By understanding the various forms of giving—monetary donations, volunteering, in-kind contributions, and planned giving—you can find approaches that align with your financial situation and values. Remember that making an impact doesn't always require financial resources; sharing your time, skills, and voice can be equally valuable contributions to your community.
+Charitable giving is a meaningful way to support causes you care about while potentially gaining personal and tax benefits. By understanding the various forms of giving—monetary donations, volunteering, in-kind contributions, and planned giving—you can find approaches that align with your financial situation and values. 
+
+Integrating charitable giving into your financial plan requires thoughtful consideration of your budget, priorities, and tax situation. Remember that making an impact doesn't always require financial resources; sharing your time, skills, and voice can be equally valuable contributions to your community.
+
+Whether you choose to volunteer, make monetary donations, or provide in-kind support, charitable giving allows you to express your values through action and become an active participant in addressing community needs and social issues.

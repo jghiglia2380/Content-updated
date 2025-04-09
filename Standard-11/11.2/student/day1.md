@@ -1,8 +1,6 @@
-# Insurance as a Risk Management Tool
+# Chapter 11.2: Insurance as a Risk Management Tool
 
-## Overview
-
-Insurance is a crucial component of financial planning and risk management. While we can't prevent all risks in life, insurance helps protect us from major financial losses when unexpected events occur. This lesson explores how insurance works, the different types of insurance products available, and how to evaluate which coverage is appropriate for your specific needs and circumstances.
+<!-- Implementation Note: Apply standard styling and formatting per the Day 1 template. Include the chapter-specific header with interactive components. -->
 
 ## Learning Objectives
 
@@ -26,9 +24,13 @@ By the end of this lesson, you will be able to:
 - **Co-payment**: A fixed amount you pay for a covered healthcare service
 - **Liability**: Legal responsibility for damages or injuries to another person or their property
 
-## Understanding Insurance Basics
+## Introduction
+
+Insurance is a crucial component of financial planning and risk management. While we can't prevent all risks in life, insurance helps protect us from major financial losses when unexpected events occur. This lesson explores how insurance works, the different types of insurance products available, and how to evaluate which coverage is appropriate for your specific needs and circumstances.
 
 Insurance is a risk transfer mechanism where you pay a relatively small, predictable amount (the premium) to protect against a much larger, unpredictable financial loss. It works on the principle of risk pooling—many people contribute to a fund that pays out to the few who experience losses.
+
+## Deeper Exploration
 
 ### How Insurance Works
 
@@ -177,11 +179,11 @@ Insurance is one of four main risk management strategies (along with avoidance, 
 - When the risk can be effectively reduced through preventive measures
 - When the risk can be avoided entirely without significant hardship
 
-## Evaluating Insurance Needs
+### Evaluating Insurance Needs
 
 When determining what insurance coverage is right for you, consider these factors:
 
-### Personal and Financial Circumstances
+#### Personal and Financial Circumstances
 
 - **Age and Life Stage**: Young adults may prioritize health and disability insurance, while parents might focus on life insurance.
 - **Dependents**: Having children or other financial dependents increases the need for life and disability insurance.
@@ -189,7 +191,7 @@ When determining what insurance coverage is right for you, consider these factor
 - **Debt Levels**: Higher debt may necessitate additional life or disability insurance to ensure it can be repaid.
 - **Health Status**: Pre-existing conditions may affect your insurance options and costs.
 
-### Cost vs. Benefit Analysis
+#### Cost vs. Benefit Analysis
 
 - **Premium Costs**: Can you afford the ongoing premium payments?
 - **Coverage Benefits**: Does the policy provide adequate protection for your specific risks?
@@ -197,7 +199,7 @@ When determining what insurance coverage is right for you, consider these factor
 - **Risk of Loss**: How likely are you to experience the covered event?
 - **Potential Financial Impact**: How devastating would the financial loss be without insurance?
 
-### Insurance Best Practices
+#### Insurance Best Practices
 
 - **Shop Around and Compare**: Get quotes from multiple insurers to find the best value.
 - **Review Policies Regularly**: Reassess your coverage as your life circumstances change.
@@ -206,7 +208,7 @@ When determining what insurance coverage is right for you, consider these factor
 - **Maintain Good Credit**: Insurance rates are often affected by credit scores.
 - **Take Advantage of Discounts**: Ask about discounts for good driving, home security systems, non-smoking, etc.
 
-## Real-World Applications
+## Real-World Examples
 
 ### Scenario 1: Health Insurance in Action
 
@@ -235,6 +237,10 @@ If James were to pass away during the 30-year term, Melissa would receive $500,0
 - Replace James's income for several years
 - Fund the children's education
 - Provide financial stability during a difficult time
+
+## Reflection Prompt
+
+Think about your family's current insurance coverage. What types of insurance do they have? Are there any risks they face that might not be adequately covered? How might you apply what you've learned about insurance to help them evaluate their coverage?
 
 ## Skill Builder: Identifying Insurance Types
 
@@ -267,15 +273,8 @@ You have an older car that isn't worth much, but you need the minimum legally re
 - Liability Insurance
 - Gap Insurance
 
-### Reflection:
-Think about your current and future insurance needs. Which types of insurance do you believe are most important for your personal situation, and why? How might your insurance needs change as you progress through different life stages?
-
 ## Summary
 
 Insurance is a vital tool for managing risk by transferring the financial impact of potential losses to an insurance company. Understanding the different types of insurance, their key components, and how they apply to various risks helps you make informed decisions about your own insurance needs.
 
 When evaluating insurance options, consider your personal circumstances, assess the potential financial impact of various risks, and balance premium costs against the protection provided. Remember that insurance needs change throughout your life, so it's important to regularly review and adjust your coverage.
-
-## Looking Ahead
-
-In our next class, we'll explore the insurance selection process in more detail through hands-on activities. You'll analyze different insurance scenarios, compare policy options, and develop strategies for making cost-effective insurance decisions that provide appropriate protection for your specific situation.

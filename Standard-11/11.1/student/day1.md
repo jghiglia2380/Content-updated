@@ -1,8 +1,6 @@
-# Understanding and Managing Risk
+# Chapter 11.1: Understanding and Managing Risk
 
-## Overview
-
-Risk is a natural part of life. Every decision we make involves some level of uncertainty about outcomes. From crossing the street to investing in the stock market, risks surround us daily. This lesson explores what risk means, the different types of risk we face, and strategies for managing risk effectively. Understanding risk allows us to make informed decisions rather than simply avoiding all risks, which would mean missing valuable opportunities.
+<!-- Implementation Note: Apply standard styling and formatting per the Day 1 template. Include the chapter-specific header with interactive components. -->
 
 ## Learning Objectives
 
@@ -26,7 +24,9 @@ By the end of this lesson, you will be able to:
 - **Deductible**: The amount you must pay out-of-pocket before insurance coverage begins
 - **Premium**: The periodic payment required to maintain insurance coverage
 
-## What is Risk?
+## Introduction
+
+Risk is a natural part of life. Every decision we make involves some level of uncertainty about outcomes. From crossing the street to investing in the stock market, risks surround us daily. This lesson explores what risk means, the different types of risk we face, and strategies for managing risk effectively. Understanding risk allows us to make informed decisions rather than simply avoiding all risks, which would mean missing valuable opportunities.
 
 Risk is the uncertainty about outcomes that could lead to loss or gain. It's important to understand that risk itself is neutral—it simply represents uncertainty. Our perception of risk often focuses on potential negative outcomes, but risk can also create opportunities for growth, learning, and financial reward.
 
@@ -39,11 +39,13 @@ Risk exists in nearly every aspect of our lives:
 
 Understanding risk doesn't mean we should avoid it entirely—that would be impossible and would limit our opportunities. Instead, effective risk management helps us make informed decisions about which risks to take and how to minimize potential negative consequences.
 
-## Types of Risk
+## Deeper Exploration
+
+### Types of Risk
 
 Risk comes in many forms. Understanding the different types helps us recognize and manage them appropriately.
 
-### Personal Risk
+#### Personal Risk
 
 These are threats to your health, life, or ability to earn income.
 
@@ -60,7 +62,7 @@ These are threats to your health, life, or ability to earn income.
 - Inability to support yourself or dependents
 - Emotional distress
 
-### Property Risk
+#### Property Risk
 
 These involve potential damage, destruction, or theft of your possessions.
 
@@ -76,7 +78,7 @@ These involve potential damage, destruction, or theft of your possessions.
 - Transportation difficulties
 - Loss of sentimental items
 
-### Liability Risk
+#### Liability Risk
 
 This is the possibility of being legally responsible for harm to others.
 
@@ -92,7 +94,7 @@ This is the possibility of being legally responsible for harm to others.
 - Settlement costs
 - Damage to reputation
 
-### Financial Risk
+#### Financial Risk
 
 These involve potential monetary losses.
 
@@ -109,11 +111,11 @@ These involve potential monetary losses.
 - Forced lifestyle changes
 - Increased debt
 
-## Risk Management Strategies
+### Risk Management Strategies
 
 There are four primary strategies for managing risk. The appropriate strategy depends on the specific situation, the potential impact of the risk, and your personal risk tolerance.
 
-### 1. Risk Avoidance
+#### 1. Risk Avoidance
 
 **What it is:** Completely eliminating the possibility of loss by avoiding the activity or situation.
 
@@ -138,7 +140,7 @@ There are four primary strategies for managing risk. The appropriate strategy de
 - Not always practical or possible
 - May limit experiences and growth
 
-### 2. Risk Reduction
+#### 2. Risk Reduction
 
 **What it is:** Taking steps to minimize the likelihood or impact of potential loss.
 
@@ -164,7 +166,7 @@ There are four primary strategies for managing risk. The appropriate strategy de
 - Requires ongoing attention and maintenance
 - May create a false sense of security
 
-### 3. Risk Acceptance
+#### 3. Risk Acceptance
 
 **What it is:** Acknowledging the risk and being prepared to handle any losses that occur.
 
@@ -189,7 +191,7 @@ There are four primary strategies for managing risk. The appropriate strategy de
 - Can lead to significant problems if the risk was underestimated
 - May create anxiety about potential losses
 
-### 4. Risk Transfer
+#### 4. Risk Transfer
 
 **What it is:** Shifting the financial responsibility for loss to another party, typically through insurance.
 
@@ -216,11 +218,11 @@ There are four primary strategies for managing risk. The appropriate strategy de
 - Exclusions for certain types of losses
 - Process of filing claims can be complex
 
-## Understanding Insurance as Risk Transfer
+### Understanding Insurance as Risk Transfer
 
 Insurance is the most common method of risk transfer. It works by pooling risk across many individuals, with everyone paying a premium to protect against losses that will only affect a few policyholders.
 
-### How Insurance Works:
+#### How Insurance Works:
 
 1. **Risk Pooling**: Insurance companies collect premiums from many people and use those funds to pay for the losses of the few who experience them.
 
@@ -237,7 +239,7 @@ Insurance is the most common method of risk transfer. It works by pooling risk a
 
 5. **Exclusions**: Specific situations or types of losses that are not covered by an insurance policy.
 
-### Common Types of Insurance:
+#### Common Types of Insurance:
 
 - **Health Insurance**: Covers medical expenses for illness or injury
 - **Auto Insurance**: Protects against vehicle damage and liability from accidents
@@ -247,7 +249,7 @@ Insurance is the most common method of risk transfer. It works by pooling risk a
 
 Insurance is most appropriate for high-impact, low-probability events that would be financially devastating without protection. It's not designed to cover every possible loss or minor expenses that you could reasonably cover yourself.
 
-## Assessing Your Risk Tolerance
+### Assessing Your Risk Tolerance
 
 Risk tolerance is your personal willingness and ability to withstand potential losses. Understanding your risk tolerance helps you make appropriate decisions about which risks to take and how to manage them.
 
@@ -266,6 +268,33 @@ Factors that influence risk tolerance include:
 Your risk tolerance may vary across different aspects of your life. You might be very conservative with financial investments but adventurous with physical activities, or vice versa.
 
 There's no "right" level of risk tolerance—what matters is that your risk management strategies align with your personal comfort level and financial circumstances.
+
+## Real-World Examples
+
+### Example 1: Auto Insurance Decision
+
+Riley just bought her first car, a used vehicle worth $8,000. She needs to decide what type of insurance coverage to purchase. After researching her options:
+
+- She chooses to buy comprehensive coverage rather than just the minimum liability required by law (risk transfer)
+- She selects a $500 deductible instead of a $250 deductible to lower her premium (balancing risk acceptance and transfer)
+- She installs an anti-theft device to qualify for a discount on her premium (risk reduction)
+
+This combined approach protects her from major financial losses while keeping her insurance costs manageable. If her car is damaged in an accident or stolen, she'll only need to pay the $500 deductible rather than the full replacement cost.
+
+### Example 2: Health Decisions and Risk
+
+Marcus is deciding whether to join his school's basketball team. He loves basketball but is concerned about potential injuries. He manages this risk by:
+
+- Getting a physical exam to ensure he's physically ready (risk reduction)
+- Purchasing sports accident insurance through the school (risk transfer)
+- Committing to proper warm-ups and training techniques to prevent injuries (risk reduction)
+- Deciding not to play when injured, even during important games (risk avoidance)
+
+Rather than avoiding basketball entirely (complete risk avoidance) or playing without any precautions (complete risk acceptance), Marcus uses multiple strategies to manage the risks while still enjoying the activity he loves.
+
+## Reflection Prompt
+
+Think about a significant financial decision you or your family might face in the next few years (buying a car, paying for education, starting a business, etc.). What risks are associated with this decision? Which risk management strategies would be most appropriate for handling these risks, and why?
 
 ## Skill Builder: Risk Scenario Analysis
 
@@ -305,20 +334,8 @@ In this activity, you'll apply your understanding of risk management strategies 
 
 **Explanation:** 
 
-### Reflection:
-
-How might you apply these risk management strategies in your daily life? Which strategy do you find most useful for your personal situation, and why?
-
 ## Summary
 
 Risk is an unavoidable part of life, but understanding risk allows us to make informed decisions rather than avoiding all risk or taking unnecessary chances. By categorizing different types of risk and applying appropriate management strategies—avoidance, reduction, acceptance, or transfer—we can protect ourselves while still pursuing opportunities for growth and advancement.
 
 Understanding your personal risk tolerance helps you make risk management decisions that align with your comfort level and financial circumstances. Remember that effective risk management isn't about eliminating all risk but about making conscious choices about which risks to take and how to minimize their potential negative impacts.
-
-## Reflection
-
-How does your perception of risk affect your decision-making? Think about your approach to risks in different areas of your life. Do you tend to avoid risk, reduce it, accept it, or transfer it? How might understanding these strategies change your approach to risk in the future?
-
-## Looking Ahead
-
-In our next class, we'll dive deeper into practical risk management through hands-on activities. You'll analyze various risk scenarios, evaluate insurance options for different situations, and develop a personal risk management plan that aligns with your goals and risk tolerance.

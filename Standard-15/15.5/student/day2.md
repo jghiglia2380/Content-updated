@@ -1,6 +1,8 @@
-# Chapter 15.5: Entrepreneurship and Side Hustles - Learning Lab
+# Business Plan Development Workshop: Learning Lab
 
-<!-- Implementation Note: This page should use the standard PFL Academy styling with the learning objectives in a light blue background, discussion prompts with a blue left border, and activity timers with a yellow background and orange border. -->
+## Overview
+
+Welcome to the Learning Lab for Chapter 15.5! Today, we'll build on the entrepreneurial concepts from our previous session by developing practical business plans for side hustles or small businesses. Through hands-on activities and collaborative exercises, you'll work through the key components of a business plan, evaluate financial considerations, and refine your entrepreneurial ideas. By the end of this Learning Lab, you'll have a foundational business plan that could serve as a roadmap for a real venture.
 
 ## Learning Objectives
 
@@ -10,12 +12,6 @@ By the end of this Learning Lab, you will be able to:
 - Develop financial projections for startup costs and potential revenue
 - Identify resources needed to launch a small business or side hustle
 - Present a concise business pitch highlighting key value propositions
-
-## Introduction
-
-Welcome to the Learning Lab for Chapter 15.5: Entrepreneurship and Side Hustles! Today, we'll build on the entrepreneurial concepts from our previous session by developing practical business plans for side hustles or small businesses. 
-
-Through hands-on activities and collaborative exercises, you'll work through the key components of a business plan, evaluate financial considerations, and refine your entrepreneurial ideas. By the end of this Learning Lab, you'll have a foundational business plan that could serve as a roadmap for a real venture.
 
 ## Warm-Up: Side Hustle Brainstorm
 
